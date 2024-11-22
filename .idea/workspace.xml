@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="184403ea-717a-4f9b-b8f1-d792be6ae036" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GoJLTZQHgu8TLY81d0NDRu0FDD" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\muhto\WebstormProjects\Amaliyot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muhto\WebstormProjects\Amaliyot\img" />
+      <recent name="C:\Users\muhto\WebstormProjects\Amaliyot\logo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="184403ea-717a-4f9b-b8f1-d792be6ae036" name="Default Changelist" comment="" />
+      <created>1667048946270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667048946270</updated>
+      <workItem from="1667048947599" duration="12990000" />
+      <workItem from="1667062092474" duration="5000" />
+      <workItem from="1667068550624" duration="13720000" />
+      <workItem from="1667123449431" duration="685000" />
+      <workItem from="1667150148569" duration="329000" />
+      <workItem from="1667151830943" duration="57000" />
+      <workItem from="1667152591514" duration="614000" />
+      <workItem from="1667153515663" duration="413000" />
+      <workItem from="1667236619492" duration="1400000" />
+      <workItem from="1667276591655" duration="261000" />
+      <workItem from="1667307643399" duration="34000" />
+      <workItem from="1667312323612" duration="531000" />
+      <workItem from="1667380371612" duration="7162000" />
+      <workItem from="1667389073361" duration="2621000" />
+      <workItem from="1667394299430" duration="9607000" />
+      <workItem from="1667405148339" duration="987000" />
+      <workItem from="1667406394980" duration="303000" />
+      <workItem from="1667407197315" duration="1385000" />
+      <workItem from="1667415923678" duration="1808000" />
+      <workItem from="1667482218965" duration="1356000" />
+      <workItem from="1667484536704" duration="865000" />
+      <workItem from="1667488230734" duration="5000" />
+      <workItem from="1669803809243" duration="2513000" />
+      <workItem from="1669900585253" duration="623000" />
+      <workItem from="1676060927271" duration="2621000" />
+      <workItem from="1676225832012" duration="548000" />
+      <workItem from="1732251914623" duration="511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
